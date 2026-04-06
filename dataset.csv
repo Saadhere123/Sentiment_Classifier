@@ -1,0 +1,21 @@
+text,sentiment
+I love this product,Positive
+This is amazing,Positive
+Very good experience,Positive
+I really like it,Positive
+Absolutely fantastic,Positive
+Worst app ever,Negative
+I hate this,Negative
+Very bad performance,Negative
+This is terrible,Negative
+Not good at all,Negative
+It's okay,Neutral
+Nothing special,Neutral
+Average experience,Neutral
+It works fine,Neutral
+Just normal,Neutral
+I love the design but hate performance,Mixed
+Good features but slow speed,Mixed
+Nice UI but buggy,Mixed
+Works well but crashes sometimes,Mixed
+Great idea but poor execution,Mixed
